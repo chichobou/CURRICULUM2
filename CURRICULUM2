@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>CURRICULUM VITAE</title>
+  </head>
+   <body>
+    <h1>CURRICULUM VITAE</h1>
+    <table>
+      <tr>
+        <th>Foto</th>
+        <th><h2>Datos Personales</h2></th>
+      </tr>
+      <tr>
+        <td>img src="C:\student\GITHUB\CURRICULUM\foto.jpg"</td>
+        <td>
+            <ol>
+            <li>Nombre:Narciso Boullosa Túñez</li>
+            <li>Dirección: Pintor Virxilio Blanco, nº 6 - 3ºA</li>
+            <li>Código Postal: 36.003</li>
+            <li>Ciudad: Pontevedra</li>
+            <li>Provincia: Pontevedra</li>
+            <li>Móvil: 670.056.741</li>
+            <li>Correo Electrónico: narbou@gmail.com</li>
+            </ol>
+        </td>
+      </tr>
+    </table>
+    <h1>FORMACIÓN</h1>
+    <ol>
+            <li>Ciclo superior en Informática</li>
+            <li>Curso Ley 39 y 40/2015</li>
+            <li>Curso Qgis</li>
+            <li>Curso avanzado Excel</li>
+            <li>Curso Inventario Municipal</li>
+            </ol>
+    <h1>APLICACIONES</h1>
+    <table>
+        <tr>
+        <th colspan="2">Nombre Aplicación y Nivel Usuario</th>
+        </tr>
+        <tr>
+            <th>Nombre Aplicación</th>
+            <th>Nivel Usuario</th>
+        <tr>
+        <td>CorelDraw</td>
+        <td>*****</td>
+        </tr>
+        <tr>
+        <td>Excel</td>
+        <td>*****</td>
+        </tr>
+        <tr>
+        <td>Word</td>
+        <td>*****</td>
+        </tr>
+        <tr>
+        <td>PhotoShop</td>
+        <td>****</td>
+        </tr>
+    </table>   
+</body>
+</html>
